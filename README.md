@@ -14,7 +14,7 @@ Portfolio of real-world data analysis projects demonstrating Python, Pandas, sta
 - **Key Finding:** Female 1st class passengers had 96.8% survival rate vs 13.5% for male 3rd class
 - **Skills:** Pandas, Feature Engineering, Statistical Analysis, Data Cleaning
 
-**[View Notebook →](./Titanic_Analysis.ipynb)**
+**[View Notebook →](.[/Titanic_Analysis.ipynb](https://github.com/Bobbie101/Real-World-Python-Projects/blob/main/2025%20LA%20Crime%20Project.ipynb))**
 
 ---
 
