@@ -1,8 +1,8 @@
-# Real-World-Python-Projects
-Portfolio of real-world data analysis projects demonstrating Python, Pandas, statistical analysis, and data visualization skills
 # Real-World Python Data Analysis Projects
 
 Portfolio of data analysis projects demonstrating proficiency in Python, Pandas, statistical analysis, and data storytelling. Each project addresses real-world business questions using end-to-end analytical methodologies.
+
+Portfolio of real-world data analysis projects demonstrating Python, Pandas, statistical analysis, and data visualization skills
 
 ## 📊 Featured Projects
 
